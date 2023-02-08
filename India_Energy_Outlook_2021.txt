@@ -10,7 +10,7 @@ electricity supply for many consumers; a continued reliance on solid biomass, ma
 firewood, as a cooking fuel for some 660 million people; financially ailing electricity 
 distribution companies, and air quality that has made Indian cities among the most polluted 
 in the world.  
-...and the scope for further growth in energy demand and infrastructure is huge 
+And the scope for further growth in energy demand and infrastructure is huge 
 India is the world's third-largest energy consuming country, thanks to rising incomes and 
 improving standards of living. Energy use has doubled since 2000, with 80% of demand still 
 being met by coal, oil and solid biomass. On a per capita basis, India's energy use and 
@@ -35,16 +35,16 @@ increasing domestic coal output, and reducing reliance on imports. Progress towa
 policy goals varies across our report's different scenarios, none of which is a forecast. Our 
 aim is rather to provide a coherent framework in which to consider India's choices and their 
 implications. 
-?	The Stated Policies Scenario (STEPS) provides a balanced assessment of the direction 
+The Stated Policies Scenario (STEPS) provides a balanced assessment of the direction 
 in which India's energy system is heading, based on today's policy settings and 
 constraints and an assumption that the spread of Covid-19 is largely brought under 
 control in 2021.  
-?	The India Vision Case is based on a rapid resolution of today's public health crisis and a 
+The India Vision Case is based on a rapid resolution of today's public health crisis and a 
 more complete realisation of India's stated energy policy objectives, accompanied by a 
 faster pace of economic growth than in the STEPS. 
-?	The Delayed Recovery Scenario analyses potential downside risks to India's energy 
+The Delayed Recovery Scenario analyses potential downside risks to India's energy 
 and economic development in the event that the pandemic is more prolonged. 
-?	The Sustainable Development Scenario explores how India could mobilise an 
+The Sustainable Development Scenario explores how India could mobilise an 
 additional surge in clean energy investment to produce an early peak and rapid 
 subsequent decline in emissions, consistent with a longer-term drive to net zero, while 
 accelerating progress towards a range of other sustainable development goals. 
@@ -86,7 +86,7 @@ relating to delayed payments to generators, land acquisition, and regulatory and
 uncertainty. However, the projections in the STEPS do not come close to exhausting the 
 scope for solar to meet India's energy needs, especially for other applications such as 
 rooftop solar, solar thermal heating, and water pumps. 
-...while rising demand for air-conditioning pushes up the peak in power demand 
+while rising demand for air-conditioning pushes up the peak in power demand 
 India's electricity demand is set to increase much more rapidly than its overall energy 
 demand. But a defining feature of the outlook is a sharp rise in variability - both in 
 electricity output, from solar PV and wind, and in daily consumption. On the supply side, 
@@ -109,7 +109,7 @@ short-run flexibility that India needs to align its solar-led generation peak in
 the day with the country's early evening peak in demand. By 2040, India has 140 GW of 
 battery capacity in the STEPS, the largest of any country, and close to 200 GW in the 
 Sustainable Development Scenario.  
-As solar takes power, the focus for coal switches to industry ... 
+As solar takes power, the focus for coal switches to industry.
 Coal's hold over India's power sector is loosening, with industry accounting for most of 
 the increase in coal demand to 2040 in the STEPS. Once the coal-fired power plants 
 currently under construction are completed over the next few years, there is no net growth 
@@ -119,7 +119,7 @@ do not cover all of the projected increase in electricity demand. However, coal 
 looking for growth increasingly have to turn to India's industrial consumers rather than the 
 power sector. The share of coal in the overall energy mix steadily declines in the STEPS, 
 from 44% in 2019 to 34% in 2040, and more rapidly in other scenarios. 
-...while oil continues to dominate a fast-growing transport sector in the STEPS 
+while oil continues to dominate a fast-growing transport sector in the STEPS 
 Energy demand for road transport in the STEPS is projected to more than double over the 
 next two decades, although this growth is cut dramatically in the Sustainable 
 Development Scenario. Over half of the growth in the STEPS is fuelled by diesel-based 
@@ -216,7 +216,7 @@ combined with batteries will play a massive part in India's energy future. But I
 a whole host of technologies and policies to chart this new path. As new industrial sectors 
 emerge and clean energy jobs grow, India will also need to ensure that no one is left 
 behind, including in those regions that are heavily dependent on coal today. 
-...and India's energy destiny will be forged by government policies 
+and India's energy destiny will be forged by government policies 
 More than that of any other major economy, India's energy future depends on buildings 
 and factories yet to be built, and vehicles and appliances yet to be bought. Within 20 
 years, the majority of India's emissions in the STEPS come from power plants, industrial 
@@ -237,21 +237,17 @@ accelerate India's clean energy transition can lay the foundation for lasting pr
 greater energy security. The stakes could not be higher, for India and for the world. 
 
 
-Chapter 1 
-Energy in India today 
-Is 2020 a turning point? 
-S U M M A R Y
-•	India is a major force in the global energy economy. Energy consumption has more 
+India is a major force in the global energy economy. Energy consumption has more 
 than doubled since 2000, propelled upwards by a growing population - soon to be 
 the world's largest - and a period of rapid economic growth. Near-universal 
 household access to electricity was achieved in 2019, meaning that over 900 million 
 citizens have gained an electrical connection in less than two decades.  
-•	India's continued industrialisation and urbanisation will make huge demands of its 
+India's continued industrialisation and urbanisation will make huge demands of its 
 energy sector and its policy makers. Energy use on a per capita basis is well under 
 half the global average, and there are widespread differences in energy use and the 
 quality of service across states and between rural and urban areas. The affordability 
 and reliability of energy supply are key concerns for India's consumers.  
-•	The Covid-19 pandemic has disrupted India's energy use; our updated assessment 
+The Covid-19 pandemic has disrupted India's energy use; our updated assessment 
 shows an estimated fall of about 5% in the country's energy demand in 2020 due to 
 lockdowns and related restrictions, with coal and oil use suffering the biggest falls. 
 The pandemic has also hit investment in the energy sector, which fell by an 
@@ -259,25 +255,10 @@ estimated 15% in 2020, exacerbating financial strains across the board, in parti
 among India's electricity distribution companies. How long the impacts last will 
 depend on how quickly the spread of the virus is brought under control, and on the 
 policy responses and recovery strategies that are put in place. 
-Figure 1.1 ? 	Selected indicators for India, 2000, 2010 and 2019 
-	Population	GDP	Energy demand
-	(Million)	(Trillion $2019, MER)	(Mtoe)
-	1 500	5	1 000	Other
-renewables
-	1 200	4	 800	Traditional
-biomass 
-Nuclear
-	 900	3	 600
-Oil
-	 600	2	 400	Gas
-Coal
-	 300	1	 200
-	2000	2010	2019	2000	2010	2019	2000	2010	2019
 Rising population and incomes since 2000 have underpinned a doubling of energy use 
 in India, but per capita energy use is still less than 40% of the world average. 
  
-
-•	Over 80% of India's energy needs are met by three fuels: coal, oil and solid biomass. 
+Over 80% of India's energy needs are met by three fuels: coal, oil and solid biomass. 
 Coal has underpinned the expansion of electricity generation and industry, and 
 remains the largest single fuel in the energy mix. Oil consumption and imports have 
 grown rapidly on account of rising vehicle ownership and road transport use. 
@@ -285,38 +266,39 @@ Biomass, primarily fuelwood, makes up a declining share of the energy mix, but i
 still widely used as a cooking fuel. Despite recent success in expanding coverage of 
 LPG in rural areas, 660 million Indians have not fully switched to modern, clean 
 cooking fuels or technologies. 
-•	Natural gas and modern renewable sources of energy have started to gain ground, 
+Natural gas and modern renewable sources of energy have started to gain ground, 
 and were least affected by the effects of the Covid-19 pandemic in 2020. The rise of 
 solar PV in particular has been spectacular; the resource potential is huge, ambitions 
 are high, and policy support and technology cost reductions have quickly made it the 
 cheapest option for new power generation. 
-•	India is the third-largest global emitter of CO2, despite low per capita CO2 emissions. 
+India is the third-largest global emitter of CO2, despite low per capita CO2 emissions. 
 The carbon intensity of its power sector in particular is well above the global 
 average. Additionally, particulate matter emissions are a major factor in air 
 pollution, which has emerged as one of India's most sensitive social and 
 environmental issues: in 2019, there were well over one million premature deaths 
 related to ambient and household air pollution.  
-•	India has a wide range of policies in place that aim to bring about a secure and 
+India has a wide range of policies in place that aim to bring about a secure and 
 sustainable energy future. This Outlook does not have a single view on how India's 
 energy future might look. Instead, based on a detailed examination of today's 
 energy markets, technologies and policies, our scenarios explore the implications of 
 different circumstances and choices, and the linkages between them.  
-•	The Stated Policies Scenario (STEPS) assumes that the pandemic is gradually 
+The Stated Policies Scenario (STEPS) assumes that the pandemic is gradually 
 brought under control in 2021. Against that backdrop, it assesses the direction in 
 which today's policy settings and targets seem likely to take the energy sector in 
 India, taking into account a range of real-life constraints that might affect their 
 realisation in practice. 
-•	The India Vision Case (IVC) takes a more optimistic stance on the speed of economic 
+The India Vision Case (IVC) takes a more optimistic stance on the speed of economic 
 recovery and long-term growth, and also on the prospects for a fuller 
 implementation of India's stated energy policy ambitions. 
-•	The Delayed Recovery Scenario (DRS), by contrast, examines the implications of a 
+The Delayed Recovery Scenario (DRS), by contrast, examines the implications of a 
 more prolonged pandemic with deeper and longer-lasting impacts on a range of 
 economic, social and energy indicators than is the case in the STEPS. 
-•	The Sustainable Development Scenario (SDS) takes a different approach, working 
+The Sustainable Development Scenario (SDS) takes a different approach, working 
 backwards from specific international climate, clean air and energy access goals, 
 including the Paris Agreement, and examining what combination of actions would 
 be necessary to achieve them. 
-1.1 	Introducing the India special focus  
+
+
 It has been six years since the International Energy Agency (IEA) last completed a special 
 focus on India in its World Energy Outlook series. This new report updates and expands the 
 analysis of India, and it does so from the exceptional starting point of 2020. Many things 
@@ -355,7 +337,8 @@ The final chapter explores the implications of developments in energy on the Uni
 Nations (UN) Sustainable Development Goals (SDGs), including energy access, air quality 
 and greenhouse gas (GHG) emissions; the implications for energy investments and finance; 
 and the emerging role of India in the energy world.  
-1.1.1 	The context  
+
+
 India has a major presence on the world stage. It is currently the world's second-most 
 populous country after the People's Republic of China (hereafter, "China"), and is set to 
 become the most populous in the 2020s. India has been one of the world's fastest-growing 
@@ -374,14 +357,7 @@ indicators, India has been catching up with the rest of the world in recent year
 Coal demand per capita increased from 25% of the world average in 1990 to 60% in 2019 
 and, mainly for this reason, carbon dioxide (CO2) emissions per capita increased from a little 
 over 15% of the world average to a little under 40% over this period.  
-Figure 1.2 ? 	Key indicators in India as a percentage of global averages 
- 
-	per capita	per capita	use	per capita
-	  2000	  2019
-Key energy and economy indicators of India are well below the global average,  although 
-they have been steadily rising. 
- 
-Note: GDP = gross domestic product.  
+
 There is huge potential for further growth in energy service demand in India due to an 
 expanding economy and the forces of urbanisation and industrialisation. There are, 
 however, critical questions about how demand growth will be met. With the notable 
@@ -404,7 +380,8 @@ energy users, Indians on average still consume significantly less than their cou
 elsewhere in the world, and much less than in advanced economies. India's annual CO2 
 emissions are now the third-highest in the world, but barely make the top 100 as measured 
 by emissions per capita, and are lower still if historical emissions per capita are considered. 
-1.1.2 	The impact of Covid-19  
+
+
 A lot has changed in India's energy sector since the last in-depth India Energy Outlook was 
 published in 2015 (Box 1.1). While there has been progress on many fronts over these 
 years, the extraordinary disruption caused by the Covid-19 pandemic in 2020 has cast a 
@@ -425,13 +402,12 @@ been conducted during a period of extraordinary disruption, felt across all part
 society. Its scenarios consider and incorporate the impact of this in different ways, including 
 in the form of reduced GDP growth rates, reduced demand, a slightly lower turnover of 
 capital stock, and a lower rate of investment across different parts of the energy sector.  
-Figure 1.3 ? 	Percentage annual change in key indicators for India in 2020  
- 
+
 Covid-19 has caused a significant break in India's development trajectory; a key 
 uncertainty is the extent to which changes lead to structural shifts or temporary disruption. 
  
-Sources: IEA analysis and IEA (2020b); IEA (2020c); IEA (2021); IEA (2021b); IMF (2021); POSOCO (2021). 
-Box 1.1 ? 	What has changed since the 2015 India Energy Outlook? 
+What has changed since the 2015 India Energy Outlook? 
+
 In the six years since the last India Energy Outlook was published, India's GDP has grown 
 at an annual average rate of 6.7%. Among a range of economic reforms, one of 
 particular importance was the introduction of the Goods and Services Tax (GST), which 
@@ -481,7 +457,7 @@ some growth in urban light rail, although cities in general lack modern mass tra
 options. 
 Electricity distribution companies continue to remain in poor financial health despite 
 policies and reforms to address a range of issues. 
-1.2 	Mapping India's energy system  
+Mapping India's energy system  
 India's energy needs are largely met by three fuels - coal, oil and biomass. These sources 
 have, in aggregate, consistently met over 80% of India's total energy demand since 1990. 
 Coal has strengthened its role as the dominant energy source, maintaining its strong 
@@ -496,7 +472,8 @@ largest energy source in India in 2000 after coal, constituting about one-fourth
 primary energy mix. Overall energy demand has doubled since then, but the share of 
 traditional biomass in the energy mix has been decreasing: it fell to 12% in 2019, largely as 
 a result of efforts to improve access to modern cooking fuels, in particular LPG.  
-Figure 1.4 ? 	Total primary energy demand in India 
+
+Total primary energy demand in India 
  
 India's energy demand has tripled over the last three decades: the share of traditional 
 biomass has fallen, leaving coal and oil dominant. 
@@ -521,14 +498,10 @@ increasing use of electrical motors and other machinery. On the supply side, coa
 the predominant force in the power sector, contributing over 70% of total generation in 
 2019. Solar PV and wind accounted for 18% of the capacity mix in 2019, but their combined 
 share of generation was less than 10%. 
-Figure 1.5 ? 	Change in energy demand by fuel in selected end-use sectors, 
-2000-19 
  
 Among end-use sectors, the growth in energy demand has been larger in industries than in 
 transport and buildings, and this growth has largely been fuelled by coal.  
- 
-Figure 1.6 ? 	Final energy consumption per capita by state, 2018 
- 
+
 The traditional use of biomass dominates in states with lower per capita energy use; states 
 with an energy-intensive industrial base account for the bulk of direct coal use. 
  
@@ -543,168 +516,8 @@ average, while their counterparts in Bihar consume less than 20% of the global a
 states with lower per capita incomes, traditional fuels for cooking dominate. In states with 
 higher per capita incomes, the share of electricity and oil products - which include 
 transport fuel and also LPG - is higher, and it rises with increasing energy use.  
-Table 1.1 ? 	Energy and economic indicators in selected states in India, 2018 
 
-  Urban 
-population 
-  Rural 
-population 
-GDP per capita
-(PPP) 
- Total final 
-consumption  
-per capita 
-Electricity 
-demand per 
-capita 
-  
-(million) 
-(million) 
-($) 
-(toe) 
-(kWh) 
-Higher income 
-192.7 
-233.8
-12 159
-0.6
-1 615 
-Delhi 
-16.4 
-0.4
-19 970
-0.6
-1 548 
-Haryana 
-8.8 
-16.5
-12 900
-0.8
-2 082 
-Telangana 
-13.6 
-21.4
-11 170
-0.5
-1 896 
-Karnataka 
-23.6 
-37.5
-11 520
-0.6
-1 396 
-Kerala 
-15.9 
-17.5
-11 150
-0.5
-757 
-Gujarat 
-25.7 
-34.7
-10 790
-1.1
-2 378 
-Uttarakhand 
-3.0 
-7.0
-10 860
-0.5
-1 467 
-Maharashtra 
-50.8 
-61.6
-10 480
-0.5
-1 424 
-Tamil Nadu 
-34.9 
-37.2
-10 590
-0.5
-1 866 
-Middle income 
-84 
-220.6
-6 540
-0.5
-1 129 
-Punjab 
-10.4 
-17.3
-8 470
-0.6
-2 046 
-Andhra Pradesh 
-14.6 
-35
-8 260
-0.5
-1 480 
-Rajasthan 
-17 
-51.5
-6 040
-0.5
-1 282 
-West Bengal 
-29.1 
-62.2
-5 980
-0.4
-703 
-Chhattisgarh 
-5.9 
-19.6
-5 290
-1.0
-1 961 
-Odisha 
-7 
-35
-5 200
-1.0
-1 628 
-Lower income 
-88.7 
-352.1
-3 930
-        0.3 
-647 
-Madhya Pradesh
-20.1 
-52.6
-4 970
-0.4
-1 084 
-Assam 
-4.4 
-26.8
-4 490
-0.3
-341 
-Jharkhand 
-7.9 
-25.1
-4 150
-0.6
-938 
-Uttar Pradesh 
-44.5 
-155.3
-3 640
-0.3
-606 
-Bihar 
-11.8 
-92.3
-2 400
-0.2
-311 
-Notes: kWh = kilowatt-hours. Delhi is a union territory rather than a state but is included here as the capital 
-of India. 
-Source: IEA analysis, MoSPI (2020)  
-1.2.1 	Key issues for energy demand  
+
 Electricity and modern life  
 In 2019, India achieved a historic landmark of reaching near-universal household 
 connectivity to electricity, meaning that over 900 million citizens have gained an electric 
@@ -722,12 +535,11 @@ fewer than one in five households owning a refrigerator, electric water heater o
 machine. Urban households are nearly four times as likely as rural households to own a 
 refrigerator, seven times as likely to own a washing machine, and nearly nine times as likely 
 to own an air-conditioning unit (AC) (Agarwal, et al., 2020). 
-Figure 1.7 ? 	Percentage of households using appliances, 2019 
+
  
 Most Indian homes own lighting, ceiling fans and TVs, while the ownership of other 
 appliances is concentrated in urban areas. 
  
-Source: IEA based on Agarwal et al (2020) 
 Note: Efficient appliances are those with 4 or 5 stars on India's standards and labelling programme, except 
 for lighting where it refers to LEDs. 
 India has seen a strong emphasis in recent years on the deployment of energy-efficient 
@@ -786,13 +598,10 @@ a nationwide scheme in 2015. Under PAHAL, a customer purchases an LPG cylinder a
 market price, and the subsidy is subsequently transferred to their bank account. In parallel, 
 the government launched the "Give It Up" campaign to persuade high-income households 
 to opt out, which led to at least 10 million households forgoing this subsidy.  
-Figure 1.8 ? 	Access to electricity and clean cooking in India 
  
 India connected almost half a billion people to the electricity grid during the last decade; 
 attaining universal access to clean cooking is the next big challenge. 
  
-Note: A full description of the World Energy Outlook energy access methodology can be found at 
-www.iea.org/articles/defining-energy-access-2020-methodology. 
 Despite these schemes, household surveys reveal continued reliance on biomass for 
 cooking, due in part to the burden of upfront payments. Even with the LPG subsidy, 
 biomass is abundantly available at no or very little monetary cost for a significant number 
@@ -842,13 +651,10 @@ consumption has risen to 36% today, higher than industry's nearly 30% share of G
 services sector's share of final consumption is also higher than its share of GDP: it accounts 
 for 54% of GDP and 59% of energy use. By contrast, agriculture makes up 17% of GDP but 
 only 5% of final energy consumption.  
-Figure 1.9 ? 	India's sectoral shares in employment, GDP and energy 
-consumption 
  
 The sectoral composition of employment and GDP has shifted away from agriculture over 
 recent decades, but agriculture remains a big source of employment in rural areas. 
  
-Source: IEA analysis based on MoSPI (2019); NSSO (2018). 
 India has long pursued a structural economic shift towards manufacturing, and the 
 government announced the landmark Make in India initiative in 2014 with the intention of 
 turning India into a global manufacturing hub. This programme had a stated goal of raising 
@@ -880,10 +686,6 @@ distance travelled on rail increased from 430 km in 2000 to nearly 860 km in 201
 ways to travel (Ministry of Railways, 2019). Freight activity similarly more than doubled on 
 India's vast railway network, reaching 740 billion tonne kilometres (tkm) in 2018, although 
 the share of freight that moves on railways has been falling.  
-Figure 1.10 ? Two- and three-wheelers in Indian road transport, 2019 
- 
-	Road stock	Fuel consumption
-	(million)	(Mtoe)
  
 Two- and three-wheelers dominate India's road transport fleet, but account for a relatively 
 small proportion of total energy demand in the transport sector. 
@@ -912,13 +714,9 @@ air pollution and growing dependence on imported oil. In India, about 75 000 veh
 types are sold daily, and there are now at least 42 cities and towns in India that have over a 
 million vehicles each (MORTH, 2019). This large stock of vehicles has in turn contributed to 
 an air quality crisis in urban areas.  
-Figure 1.11 ? Annual distance travelled per capita 
- 
 Indians have been travelling farther every year, resulting in growing energy demand from 
 transport. 
  
-Note: kgoe = kilogrammes of oil equivalent. 
-Sources: IEA based on DGCA (2019); Indian Railways (2019). 
 India has responded to these challenges by instituting a range of policies to improve fuel 
 quality and energy efficiency and to diversify the energy use of the sector. In April 2017, 
 India put in place corporate average fuel consumption (CAFE) fuel efficiency norms for 
@@ -946,8 +744,9 @@ modes of transport too. India's railway network now has a target of 100% electri
 its tracks by 2022, up from 51% of the railway network (in route kilometres) in 2019. There 
 has also been a rapid increase in urban light rail in cities. In 2020, over 650 km of metro rail 
 was operational in 18 cities (MOHUA, 2020).  
-1.2.2 	Key issues for energy production and trade 
-Coal 
+
+Key issues for energy production and trade Coal 
+
 Coal remains the bedrock of India's energy economy, commanding a 44% share of the 
 primary energy mix, the third-highest among Group of 20 (G20) countries. India is the 
 world's second-largest coal market, with plentiful domestic reserves. Indian mines produce 
@@ -992,16 +791,10 @@ levy was first introduced in 2010, the revenues collected were directed to a Nat
 Energy and Environment Fund (NCEEF). Upon the introduction of the GST in 2017, however, 
 the original levy (the "coal cess") and NCEEF were abolished and replaced with a GST 
 Compensation Cess on coal to make up for the shortfall in overall tax revenues.  
-Figure 1.12 ? India production and trade of coal, crude oil and natural gas 
- 
-	Coal	Oil	Gas
-	(Mtce)	(mb/d)	(bcm)
  
 India's domestic production of fossil fuels has not been able to keep pace with demand, 
 leading to a rapid rise in import dependence over the past two decades. 
  
-Note: Mtce = million tones of coal equivalent; mb/d = million barrels per day; bcm = billion cubic metres. 
-Oil 
 Unlike coal, India has limited domestic resources of oil, largely relying on imported crude to 
 meet its needs. India has become the second-largest net oil importer after China. Crude oil 
 is brought in by tanker from the Middle East, Latin America and Africa to Indian refineries 
@@ -1085,7 +878,6 @@ producers. Partly owing to the effective management of these risks, India's sola
 reached 38 GW by 2019 (mostly utility scale), with wind adding a further 38 GW of capacity. 
 Together, they now constitute nearly 20% of India's installed capacity. In 2019, India 
 announced a new target of 450 GW of renewable electricity capacity by 2030. 
-Figure 1.13 ? Annual power sector capacity additions 
  
 With coal capacity growth slowing down and solar PV and wind ramping up, the share of 
 variable renewables in installed capacity has doubled since 2014. 
@@ -1184,13 +976,7 @@ economic output. This has happened as a result of the growth in the Indian servi
 energy efficiency improvements and a transition away from inefficient biomass towards 
 modern fuels.  
  
-Figure 1.14 ? GDP and GDP per capita for selected countries, 1990 and 2019 
- 
-	GDP ($2019 trillion, PPP)	 
-While India is now the world's third-largest economy in PPP terms,  it lags 
-behind other emerging economies in terms of per capita incomes. 
- 
-Note: Bubble size indicates GDP ($2019). 
+
 The Covid-19 pandemic has given India an abrupt economic shock, with April-June quarterly 
 GDP falling by 23.9% and an estimated contraction of about 8% for the whole of 2020. This 
 contraction, which has had a significant impact on energy demand across fuels and sectors, 
@@ -1233,10 +1019,7 @@ government capital expenditures by 12% through September for fiscal year 2020-21
 compared to the same period in 2019-20. In the energy sector, we estimate that 
 investment is set to decline by almost 15% to around $70 billion in 2020 compared to 2019 
 following five years of stable spending at around $80 billion, with larger falls in grid 
-networks (Figure 1.15).  
-Figure 1.15 ? Investment trends in energy, 5-year annual averages (2000-19) and 
-2020 
- 
+networks 
 Investment in renewables exceeded fossil fuel power investment for the fifth year in a row 
 in 2020, while investment in networks has been falling recently in absolute and relative 
 terms. 
@@ -1346,11 +1129,8 @@ marginalised caste groups categorised as Scheduled Castes and Scheduled Tribes h
 less access to electricity and clean cooking after controlling for factors such as income and 
 education. These groups make up about 16% of India's population (Saxena & Bhattacharya, 
 2017). 
-Figure 1.17 ? Household electricity consumption per month in urban and rural 
-India 
- 
 
-S P O T L I G H T
+
 
 A long way to go: Women's participation in India's energy sector 
 The issue of women's access to and participation in the energy sector is a key aspect of 
@@ -1478,24 +1258,12 @@ total capacity may be as much as 90 GW (The Indian Express, 2014). The many smal
 units implied by 
 this data are relatively expensive to operate and are also a source of local pollution, even 
 if used only sparingly.  
-Figure 1.19 ? Captive power as a share of total generation and capacity by 
-fuel, and total captive generation by fuel, 2018 
-
- 
-Al
-100%
-80%
-60%
-40%
-20%
- 
-   most all diesel-based generation in India takes the form of captive power for small 
+Captive power as a share of total generation and capacity by fuel, and total captive generation by fuel, 2018 
+most all diesel-based generation in India takes the form of captive power for small 
 businesses and households; coal-fired plants play a significant role for large industries. 
   
  
- 
 
-Source: IEA analysis based on MoSPI (2020). 
 Rooftop solar is another potential source of captive power that is being increasingly 
 taken up by both residential and commercial users, although adoption has fallen short 
 of official targets. As rooftop solar schemes gain momentum and the cost of integrated 
@@ -1504,7 +1272,7 @@ people to sell excess power back to grid), small-scale renewables are likely to 
 way towards replacing diesel backup. As gas networks expand within cities, gas-based 
 generation could also become viable for larger users.  
 
-1.3.3 	Energy and the environment  
+Energy and the environment  
 Air quality 
 Air pollution has emerged as one of India's gravest environmental problems in recent years, 
 and energy use is at the heart of it. In 2019, there were well over one million premature 
@@ -1515,7 +1283,6 @@ attainment cities" for exceeding pollutant levels set under the National Ambient
 Quality Standards (NAAQS) in 2009 (CEA, 2019). Although already a substantial number, the 
 total of 124 cities may be an underestimate because not all of India's nearly 500 cities have 
 air quality monitoring stations.  
-Figure 1.20 ? Number of clean air days in India, 2019 
  
 Nearly half of India's population lives in regions with fewer than 200 clean air days a year. 
  
@@ -1531,14 +1298,14 @@ northern India in the winter have much to do with the region's geographical and
 meteorological conditions, but the source of this pollution is anthropogenic, and stems 
 primarily from the use of energy. From 70 to 90% of the particulate matter emissions in 
 India's five largest urban agglomerations are a result of energy use (Figure 1.21).  
-Figure 1.21 ? Sectoral origin of PM2.5 emissions in selected urban agglomerations  
+Sectoral origin of PM2.5 emissions in selected urban agglomerations  
  
 Notes: NCR = National Capital Region. Industrial emissions includes power generation; data for Bangalore 
 and Chennai are from 2015, while the data of Kolkata, Mumbai and Delhi NCR are from 2018; the NCR 
 includes the cities of Delhi, Noida, Ghaziabad, Gurgaon, Faridabad and other districts that are a part of the 
 geographic entity of NCR; all urban agglomerations considered include some non-urban areas that are a part 
 of the surrounding areas. 
-Source: IEA analysis based on UrbanEmissions.info (2020) and TERI (2018). 
+
 The contribution of human activity to air quality was illustrated during India's Covid-19 
 related lockdowns, which brought a halt to almost all economic activity. During the six-
 week lockdown that started in late March, PM2.5 levels were 58% lower in Delhi, 45% lower 
@@ -1614,9 +1381,7 @@ responsible for 70% of India's energy sector CO2 emissions. The carbon intensity
 power sector is 725 grammes of CO2 per kilowatt-hour (g CO2/kWh), compared with a 
 global average of 510 g CO2/kWh, underlining the predominant role of inefficient coal-fired 
 generation (Figure 1.22). 
-Figure 1.22 ? CO2 emissions per capita and emissions intensity of electricity 
-generation by region, 2020 
- 
+
  
  
 India's per capita CO2 emissions are 60% lower than the global average, but the emissions 
@@ -1782,7 +1547,7 @@ assumptions and see where they lead, the SDS works back from the achievement of
 specific outcomes and assesses what combination of actions would be required to get 
 there. The key outcomes that this scenario delivers are drawn from the UN SDGs: 
 effective action to combat climate change by holding the rise in global average 
-temperature to "well below 2°C ... and pursuing efforts to limit [it] to 1.5°C", as set out 
+temperature to "well below 2Â°C ... and pursuing efforts to limit [it] to 1.5Â°C", as set out 
 in the Paris Agreement; universal access to affordable, reliable and modern energy 
 services by 2030; and a substantial reduction in air pollution. In the SDS, India is on 
 track to reach net zero emissions beyond the modelling horizon - in the mid-2060s.  
@@ -1806,28 +1571,28 @@ potential implications not only for transport demand, but also for power generat
 capacity, refinery configurations, natural gas supply infrastructure, GHG emissions and air 
 quality. And India's choices also have significant impacts for global trends. The scenarios 
 and analysis in this Outlook allow us to highlight these interlinkages. 
-Box 1.3 ? 	How is the India Vision Case different? 
+How is the India Vision Case different? 
 The IVC reflects the energy, environment and economic targets of the Indian 
 government. It goes beyond stated policies and tests the following aspirations against 
 the outcomes of WEO modelling:  
-?	Achievement of 450 GW of non-hydro renewable capacity by 2030. A greater 
+Achievement of 450 GW of non-hydro renewable capacity by 2030. A greater 
 degree of financial de-risking, underpinned by a favourable regulatory 
 environment, allows public and private actors to scale up investment in clean 
 energy technologies. Compared with the STEPS, there is much greater uptake of 
 rooftop solar and wind energy. 
-?	A substantial increase in the share of natural gas in India's primary energy mix by 
+A substantial increase in the share of natural gas in India's primary energy mix by 
 2030. There is a much greater use of gas for electricity generation than in the 
 STEPS, and gas is used in particular as a source of flexibility. Gas also displaces fuels 
 including diesel in the captive power sector. 
-?	An acceleration in the uptake of alternative fuels in the transport sector. The share 
+An acceleration in the uptake of alternative fuels in the transport sector. The share 
 of EVs in total road vehicle sales reaches 38% by 2030 (25% of sales in the case of 
 passenger cars), and bioenergy, including both bioethanol/biodiesel as well as bio-
 CNG, start to be used.  
-?	A rapid and widespread implementation of efficiency measures across the energy 
+A rapid and widespread implementation of efficiency measures across the energy 
 economy, especially in buildings but also in industry.  
-?	Achievement of India's energy access goals in full by 2030, meaning that traditional 
+Achievement of India's energy access goals in full by 2030, meaning that traditional 
 uses of biomass are entirely phased out by this date. 
-?	A longer-term focus on deep decarbonisation of the industrial sector, which 
+A longer-term focus on deep decarbonisation of the industrial sector, which 
 translates into a ramp-up of carbon capture and storage technologies, together 
 with early efforts to explore hydrogen pathways that yield some initial production 
 from low-carbon sources. 
@@ -2129,7 +1894,7 @@ Chapter 2
 Urbanisation and industrialisation in India  
 Building an energy future 
 S U M M A R Y
-•	The Covid-19 pandemic has introduced major new uncertainties into the outlook for 
+Â•	The Covid-19 pandemic has introduced major new uncertainties into the outlook for 
 India's energy sector, but it has not altered the key underlying drivers. Chief among 
 them are urbanisation and industrialisation. Up until now, India's economic growth 
 has been driven mainly by the services sector, rather than the more energy-
@@ -2137,7 +1902,7 @@ intensive industry sector, and the rate at which India has urbanised has been
 somewhat slower than in other emerging countries. How fast India urbanises and 
 industrialises over the coming decades, and which policies govern these processes, 
 will be of crucial significance for its energy future and for global trends.  
-•	Over the period to 2040, an estimated 270 million people are likely to be added to 
+Â•	Over the period to 2040, an estimated 270 million people are likely to be added to 
 India's urban population, the equivalent of adding a new city the size of Los Angeles 
 every year. Even with such rapid urbanisation on a very large scale, the share of 
 India's population living in urban areas in 2040 is still expected to be less than 50%. 
@@ -2157,44 +1922,44 @@ Figure 2.1 ? 	Total primary energy demand in India by fuel and scenario
 	Coal	Oil	Gas	Nuclear	Renewables	Traditional use of biomass
 India leads global energy demand growth in every WEO scenario, although the way this 
 demand is met depends on the interaction of policies, technologies and market forces. 
-•	Most of the buildings that will exist in India in 2040 have yet to be built. Urbanisation 
+Â•	Most of the buildings that will exist in India in 2040 have yet to be built. Urbanisation 
 underpins a massive increase in total residential floor space from less than 20 billion 
 square metres today to more than 50 billion in two decades' time. This prompts 
 huge growth in demand for energy-intensive building materials. In the STEPS, 
 demand for cement more than doubles to 2040, and demand for steel nearly triples.  
-•	Urbanisation is also a spur for a transition in household energy use away from solid 
+Â•	Urbanisation is also a spur for a transition in household energy use away from solid 
 biomass and towards electricity. Rising ownership of appliances and demand for air 
 conditioners mean that the share of energy demand taken by electricity in India's 
 buildings sector rises from a quarter today to around half by 2040 in the STEPS. 
 There is considerable scope for India to expand the application of its Energy 
 Conservation Building Codes and further tighten appliance standards to limit future 
 strains on its energy system. 
-•	Transport is currently the fastest-growing end-use sector in terms of energy demand, 
+Â•	Transport is currently the fastest-growing end-use sector in terms of energy demand, 
 and urbanisation will foster further growth. In many Indian cities, increasing demand 
 for transport has so far led to much congestion and poor air quality. This has 
 prompted a range of policy initiatives on fuel efficiency and quality, mass transit, and 
 the electrification of transport. However, today's policy settings are not yet enough 
 to avoid a large projected increase in oil demand for road transport, which doubles 
 in the STEPS by 2040. 
-•	Industry is the end-use sector that currently uses most energy, and its share in total 
+Â•	Industry is the end-use sector that currently uses most energy, and its share in total 
 final consumption rises from 36% today to 41% by 2040 in the STEPS. As coal use for 
 power generation flattens out, industry accounts for almost two-thirds of the growth 
 in India's coal demand and becomes the major source of growth in emissions. 
 Moreover, since the majority of goods transported in India move by road, industrial 
 expansion translates into rapid growth in diesel use for road freight, despite 
 initiatives to shift more of the freight market onto the railways. 
-•	Efforts to promote energy efficiency and material efficiency, and greater use of 
+Â•	Efforts to promote energy efficiency and material efficiency, and greater use of 
 natural gas and electricity, in particular for lighter manufacturing, all mitigate the rise 
 in industrial energy use in the STEPS, but there is considerable potential for further 
 efficiency gains. These gains are seen to some extent in the IVC and more 
 comprehensively in the SDS.  
-•	Different scenarios inevitably produce different outcomes. In the DRS, energy 
+Â•	Different scenarios inevitably produce different outcomes. In the DRS, energy 
 demand and emissions are suppressed by a lower level of economic activity. Positive 
 environmental outcomes therefore come at a very high cost. By contrast, the IVC 
 delivers both higher economic growth and lower emissions than the STEPS as a 
 result of policy actions which increase efficiency and achieve a faster transition to 
 clean electricity and natural gas.  
-•	The SDS goes further in the direction of improving efficiency and the use of 
+Â•	The SDS goes further in the direction of improving efficiency and the use of 
 lowcarbon technologies. Alongside improved air quality and enhanced energy 
 access, India sees an early peak in energy-related CO2 emissions and a rapid 
 subsequent decline, putting the country on track for net zero emissions by the mid-
@@ -3432,36 +3197,36 @@ Out with the old, in with the new?
 
 S U M M A R Y
 
-•	The Covid-19 crisis has exacerbated many of the challenges facing fuel suppliers and 
+Â•	The Covid-19 crisis has exacerbated many of the challenges facing fuel suppliers and 
 electricity generators. To some degree this has worked to India's advantage, as 
 lower prices ease its fuel import bills. But strained balance sheets and uncertainties 
 over demand also affect the prospects for domestic energy investment and supply. 
-•	The longer-term effects of the pandemic are likely to vary significantly by fuel and 
+Â•	The longer-term effects of the pandemic are likely to vary significantly by fuel and 
 technology. In the STEPS, India's gas supply (production plus trade) in 2030 is only 
 slightly below the levels projected in WEO 2019, but oil supply is down by 5%, and 
 coal is down by one-quarter. The pandemic takes more than 500 TWh off electricity 
 generation in 2030 in the STEPS, compared with pre-crisis projections, with the 
 brunt of the reduction being borne by coal-fired generation. 
-•	Despite the shock from Covid-19, India's electricity demand is still projected to grow 
+Â•	Despite the shock from Covid-19, India's electricity demand is still projected to grow 
 by almost 5% per year to 2040 in the STEPS, which is nearly double the rate of 
 energy demand as a whole. India adds capacity the size of that of the European 
 Union to its installed base over the next two decades, with solar PV and wind 
 accounting for more than three-quarters of the capacity additions as their costs fall. 
 By 2030, new solar PV, whether alone or paired with battery storage, becomes 
 competitive with existing coal-fired power.  
-•	The rise in demand for electricity brings with it much greater variability in both 
+Â•	The rise in demand for electricity brings with it much greater variability in both 
 supply and demand. On the supply side, this reflects the growth in solar PV and 
 wind. On the demand side it is related in large part to a six-fold increase in peak 
 daily electricity consumption for air conditioning to 2040; higher efficiency 
 standards for this equipment could remove the need for $9 billion to $15 billion of 
 investment in peaking plant capacity. 
-•	India's requirement for power system flexibility rises faster than anywhere else in 
+Â•	India's requirement for power system flexibility rises faster than anywhere else in 
 the world in the STEPS, and it is higher still in the IVC and SDS. The achievement of 
 ambitious renewable energy targets which call for 450 GW of non-hydro capacity by 
 2030 has to be accompanied by a transformation of the power system in order to 
 accommodate this growth, and this requires flexible operation of the coal-fired fleet, 
 robust grids, and battery storage and demand-side response. 
-•	India's ambition to become a "gas-based economy" comes at a time of ample 
+Â•	India's ambition to become a "gas-based economy" comes at a time of ample 
 international supply. However, price remains a very sensitive issue for Indian 
 consumers, especially given the complex patchwork of additional charges and tariffs 
 that turn an average wholesale cost of gas in 2019 of $6/MBtu into an estimated 
@@ -3472,21 +3237,21 @@ Figure 3.1 ? 	Change in fuel supply and installed electricity capacity by
 scenario, 2019-2040 
 The outlook for fuels in India varies strongly by scenario,  
 but the expansion of the power system is rapid in all cases. 
-•	In the STEPS, growth in gas consumption is concentrated in the industrial sector and 
+Â•	In the STEPS, growth in gas consumption is concentrated in the industrial sector and 
 in city gas distribution; in the IVC and in SDS, gas consumption also displaces 
 significant amounts of coal in the power sector. The projections in the IVC and SDS 
 underline that India's vision for gas cannot be limited to natural gas of fossil origin if 
 the country is to meet its environmental and sustainability objectives; it needs to 
 incorporate an expanding role for low-carbon gases, biomethane and hydrogen, 
 where India has major potential as well. 
-•	India's ambitions to reduce import dependence for oil and coal rest in part on 
+Â•	India's ambitions to reduce import dependence for oil and coal rest in part on 
 expanding domestic supply. Despite ongoing efforts to improve the investment 
 framework, this is challenging in the oil sector because of the complexity and the 
 relatively limited size of the domestic resource base. In the case of coal, the 
 domestic resource base is large enough to support increased production, but today's 
 steep coal production targets are difficult to reconcile with India's evolving energy 
 needs and environmental priorities.  
-•	Adapting India's coal industry to these evolving needs and priorities requires 
+Â•	Adapting India's coal industry to these evolving needs and priorities requires 
 concerted efforts to improve operational efficiency. It also requires the 
 incorporation of new technologies to relieve environmental impacts, including CCUS, 
 as well as alternative approaches to cooling at coal-fired plants: more than 80% of 
@@ -5829,15 +5594,15 @@ Chapter 4
 Implications for India and the world 
 India's change is global change 
 S U M M A R Y
-•	India's energy choices matter. They have direct and far-reaching effects on the lives 
+Â•	India's energy choices matter. They have direct and far-reaching effects on the lives 
 of a growing population, and major indirect effects on the rest of the world through 
 their impact on energy markets, emissions, and flows of technology and capital.  
-•	In the STEPS, India accounts for nearly one-quarter of global energy demand growth 
+Â•	In the STEPS, India accounts for nearly one-quarter of global energy demand growth 
 from 2019-40, which is more than any other country. Already a heavyweight in solar 
 PV, India becomes a world leader in battery storage. By 2040, India's power system 
 eclipses the European Union's and becomes the world's third-largest, and it is the 
 second-largest growth market for renewable energy after China.  
-•	India's growing strength in the global industrial economy has important implications 
+Â•	India's growing strength in the global industrial economy has important implications 
 for coal and gas markets. India leads global oil demand growth in the STEPS on the 
 back of a fivefold increase in per capita car ownership, and also becomes the 
 fastestgrowing market for natural gas. India is in addition one of the very few 
@@ -5852,44 +5617,44 @@ GDP Population demand demand demand demand emissions capacity capacity
 10% 
 5%
 India's influence is felt across all fuels and technologies, as well as in global emissions. 
-•	India already imports around 40% of its primary energy and overall reliance on 
+Â•	India already imports around 40% of its primary energy and overall reliance on 
 imports remains at this level to 2040 in the STEPS. However, India's combined import 
 bill for fossil fuels triples over this period, with oil by far the largest component. The 
 SDS sees an oil import bill which is $1.4 trillion smaller over the period 2019-40 than 
 in the STEPS: these savings offset entirely the additional costs of clean energy 
 investments required in the SDS.  
-•	The rapidly rising requirement for flexibility in the operation of its power system is a 
+Â•	The rapidly rising requirement for flexibility in the operation of its power system is a 
 potential hazard for electricity security in India. One additional systemic risk comes 
 
 from the poor financial health of discoms. Improving billing and collection efficiency 
 and reducing technical and commercial losses are key to reforming the sector. 
 Stepping up investment in renewables also means tackling risks relating to delayed 
 payments to generators, land acquisition, and regulatory and contract certainty.  
-•	In the STEPS, the combined markets in India for solar PV modules, wind turbines, 
+Â•	In the STEPS, the combined markets in India for solar PV modules, wind turbines, 
 lithium-ion batteries and water electrolysers grow to over $40 billion per year by 
 2040; in the SDS they grow to twice this size. With a 10-35% market share for some 
 of these products, India has the opportunity to capture more of the value from 
 these supply chains by positioning itself as a hub for innovation and research 
 expertise. In order to support this transformation, India's clean energy workforce 
 grows by 1 million from 2020 to 2030 in the STEPS, and by 1.6 million in the SDS. 
-•	Policies to improve air quality and expand access to clean cooking in the STEPS help 
+Â•	Policies to improve air quality and expand access to clean cooking in the STEPS help 
 to limit pollutant emissions, but a rising urban population means that more people 
 are exposed to air pollution and suffer its ill effects. The IVC and especially the SDS 
 see a lasting reduction in premature deaths from poor air quality, with several 
 related co-benefits for energy security and trade.  
-•	Growth in India's annual CO2 emissions slows steadily over time in the STEPS, largely 
+Â•	Growth in India's annual CO2 emissions slows steadily over time in the STEPS, largely 
 because power sector emissions plateau after 2030 due to the rising share of 
 renewables in electricity generation. A cleaner power mix also strengthens the case 
 for the electrification of transport; at present, the carbon intensity of electricity in 
 India means that there is no CO2 benefit from switching to an electric car.  
-•	Despite a steady slowing in their overall rate of growth, India's total emissions in the 
+Â•	Despite a steady slowing in their overall rate of growth, India's total emissions in the 
 STEPS are around 50% higher in 2040 than in 2019, though per capita CO2 emissions 
 remain low by international standards. Enhanced efforts to cut coal use in power 
 generation and to improve the efficiency and carbon intensity of industrial output 
 bring about lower emissions in the IVC, together with higher GDP. The SDS sees even 
 more far-reaching improvements in efficiency and in the penetration of low-carbon 
 technologies, cutting emissions much further. 
-•	The SDS demonstrates that robust economic expansion is fully compatible with an 
+Â•	The SDS demonstrates that robust economic expansion is fully compatible with an 
 increasing pace of emissions reductions and the achievement of other sustainable 
 development goals. India's energy-related CO2 emissions flatten out in this scenario 
 in the 2020s and go into steady decline by the 2030s, on track to reach net-zero by 
@@ -5897,7 +5662,7 @@ the mid-2060s. This decisive break with historical trends requires tackling emis
 from existing infrastructure while also avoiding new sources of emissions wherever 
 possible. In the STEPS, by the late 2030s most of India's annual emissions come from 
 factories, vehicles, buildings and power plants that do not yet exist. 
-•	India's technology choices have to take into account water availability and 
+Â•	India's technology choices have to take into account water availability and 
 competing water demands. Thermal power plants are already vulnerable to water 
 stress; without careful planning, some low-carbon energy options - most notably 
 nuclear, bioenergy and concentrating solar power - could be limited by water 
@@ -6927,53 +6692,53 @@ Selected subsector
 Key factors affecting risks and returns 
 Most common developer type 
 Biofuels and biogases 
-•	Sustainable feedstock supply chains and 
+Â•	Sustainable feedstock supply chains and 
 domestic fuel pricing  
-•	Land acquisition 
+Â•	Land acquisition 
 ? PSUs and MSMEs 
 Utility-scale 
 renewable power 
-•	Power purchase and dispatch 
-•	Contract certainty 
-•	Land acquisition 
+Â•	Power purchase and dispatch 
+Â•	Contract certainty 
+Â•	Land acquisition 
 ? Listed and unlisted (i.e. privately 
 held) companies, mainly large, 
 domestic companies 
 Distributed 
 renewable power 
-•	Retail tariffs and cross-subsidies 
-•	Enabling infrastructure 
-•	Regulatory risk (access, ownership) 
+Â•	Retail tariffs and cross-subsidies 
+Â•	Enabling infrastructure 
+Â•	Regulatory risk (access, ownership) 
 ? Corporate consumers, PSUs and 
 households  
 Electric grids and 
 battery storage 
-•	Regulatory risk (tariff setting) 
-•	Volume risk (e.g. line utilisation) 
-•	Uncertain business model (storage) 
+Â•	Regulatory risk (tariff setting) 
+Â•	Volume risk (e.g. line utilisation) 
+Â•	Uncertain business model (storage) 
 ? PSUs, some listed (e.g. Power 
 Grid) and other large companies 
 (inter-state transmission) 
 Energy efficiency 
-•	Retail tariffs and cross-subsidies 
-•	Establishing reliable baseline and 
+Â•	Retail tariffs and cross-subsidies 
+Â•	Establishing reliable baseline and 
 measurement/verification of savings 
-•	Creditworthiness of small developers 
+Â•	Creditworthiness of small developers 
 ? Large domestic companies, 
 MSMEs, ESCOs, households 
 Electric mobility 
-•	Enabling infrastructure (e.g. pace of 
+Â•	Enabling infrastructure (e.g. pace of 
 electric charger deployment) 
-•	Retail tariffs and cross-subsidies 
-•	Performance issues 
-•	State-owned and private 
+Â•	Retail tariffs and cross-subsidies 
+Â•	Performance issues 
+Â•	State-owned and private 
 transport companies 
-•	Corporate consumers and 
+Â•	Corporate consumers and 
 households 
 Renewable heat 
 applications 
-•	Retail tariffs and cross-subsidies 
-•	Creditworthiness of small developers 
+Â•	Retail tariffs and cross-subsidies 
+Â•	Creditworthiness of small developers 
 ? Large domestic companies, 
 MSMEs, ESCOs, households 
 Note: PSUs = public sector undertakings, state-owned enterprises, majority-owned by the central or state 
@@ -10162,7 +9927,7 @@ producing hydrocarbons only in gaseous form, and "associated" gas produced in
 association with crude oil as well as methane recovered from coal mines (colliery gas). 
 Natural gas liquids (NGLs), manufactured gas (produced from municipal or industrial waste, 
 or sewage) and quantities vented or flared are not included. Gas data in cubic metres are 
-expressed on a "gross" calorific value basis and are measured at 15 °C and at 760 mm Hg 
+expressed on a "gross" calorific value basis and are measured at 15 Â°C and at 760 mm Hg 
 ("Standard Conditions"). Gas data expressed in tonnes of oil equivalent, mainly for 
 comparison reasons with other fuels, are on a "net" calorific basis. The difference between 
 the net and the gross calorific value is the latent heat of vaporisation of the water vapour 
@@ -10270,7 +10035,7 @@ Pakistan, Sri Lanka, Chinese Taipei, and other Asia Pacific countries and territ
 Caspian: Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan 
 and Uzbekistan. 
 Central and South America: Argentina, Plurinational State of Bolivia (Bolivia), Brazil, Chile, 
-Colombia, Costa Rica, Cuba, Curaçao, Dominican Republic, Ecuador, El Salvador, Guatemala, 
+Colombia, Costa Rica, Cuba, CuraÃ§ao, Dominican Republic, Ecuador, El Salvador, Guatemala, 
 Haiti, Honduras, Jamaica, Nicaragua, Panama, Paraguay, Peru, Suriname, Trinidad and 
 Tobago, Uruguay, Bolivarian Republic of Venezuela (Venezuela), and other Central and 
 South American countries and territories.4 
@@ -10311,7 +10076,7 @@ Southeast Asia: Brunei Darussalam, Cambodia, Indonesia, Lao People's Democratic
 Republic (Lao PDR), Malaysia, Myanmar, Philippines, Singapore, Thailand and Viet Nam. 
 These countries are all members of the Association of Southeast Asian Nations (ASEAN). 
 Sub-Saharan Africa: Angola, Benin, Botswana, Cameroon, Republic of the Congo (Congo),
-Côte d'Ivoire, Democratic Republic of the Congo, Eritrea, Ethiopia, Gabon, Ghana, Kenya, 
+CÃ´te d'Ivoire, Democratic Republic of the Congo, Eritrea, Ethiopia, Gabon, Ghana, Kenya, 
 Mauritius, Mozambique, Namibia, Niger, Nigeria, Senegal, South Africa, South Sudan, 
 Sudan, United Republic of Tanzania (Tanzania), Togo, Zambia, Zimbabwe and other African 
 countries and territories.6 
@@ -10338,7 +10103,7 @@ authorities. The use of such data by the OECD and/or the IEA is without prejudic
 Heights, East Jerusalem and Israeli settlements in the West Bank under the terms of international law. 
 6	Individual data are not available and are estimated in aggregate for: Burkina Faso, Burundi, Cabo 
 Verde, Central African Republic, Chad, Comoros, Djibouti, Kingdom of Eswatini, Gambia, Guinea, Guinea-
-Bissau, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Réunion, Rwanda, Sao Tome and Principe, 
+Bissau, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, RÃ©union, Rwanda, Sao Tome and Principe, 
 Seychelles, Sierra Leone, Somalia and Uganda.  
  	 
 Abbreviations and Acronyms  
@@ -10514,7 +10279,7 @@ from www.ceew.in
 Agarwal, S. et al. (2020). State of Electricity Access in India: Insights from the India 
 Residential Energy Survey (IRES) 2020. New Delhi: Council on Energy, Environment and 
 Water. 
-Agência 	Brasil. 	(2019). 	Agência 	Brasil. 	Retrieved 	23 	July 	2020, 	from 
+AgÃªncia 	Brasil. 	(2019). 	AgÃªncia 	Brasil. 	Retrieved 	23 	July 	2020, 	from 
 https://agenciabrasil.ebc.com.br/geral/noticia/2019-06/preco-do-gas-e-
 desempregoelevam-uso-da-lenha-para-cozinhar-no-brasil 
 Aklin, M. B. (2015). Quantifying slum electrification in India and explaining local variation. 
@@ -10945,20 +10710,20 @@ energy to a growing population. The report examines pathways out of the crisis t
 emerged from the Covid-19 pandemic, as well as longer-term trends, exploring how India's 
 energy sector might evolve to 2040 under a range of scenarios. The report is presented as 
 a series of 'deep dives' exploring cross-cutting issues, including:
-•	The effects of economic growth, urbanisation and industrialisation on India's fuel and 
+Â•	The effects of economic growth, urbanisation and industrialisation on India's fuel and 
 sector-level demand trends.
-•	The evolution of mobility, including electrification, in the context of growing 
+Â•	The evolution of mobility, including electrification, in the context of growing 
 urbanisation.
-•	The prospects for expanding energy access, especially in rural areas.
-•	Flexibility requirements in the power sector under ambitious renewable capacity 
+Â•	The prospects for expanding energy access, especially in rural areas.
+Â•	Flexibility requirements in the power sector under ambitious renewable capacity 
 targets and a significant rise in electricity demand - especially from air conditioners.
-•	Challenges and opportunities for clean energy finance, including investments in solar 
+Â•	Challenges and opportunities for clean energy finance, including investments in solar 
 energy and batteries
-•	The supply and infrastructure required for an expanded role for natural gas, along 
+Â•	The supply and infrastructure required for an expanded role for natural gas, along 
 with a sector-level assessment of its potential.
-•	Impacts of India's energy policy choices on energy access, air pollution and carbon 
+Â•	Impacts of India's energy policy choices on energy access, air pollution and carbon 
 emissions.
-•	India's growing importance in global energy issues, and the implications of its 
+Â•	India's growing importance in global energy issues, and the implications of its 
 development trajectory on international energy supply, trade and investment.
 For more information, and the free download of this report, please visit: 
 iea.li/india-outlook2021
